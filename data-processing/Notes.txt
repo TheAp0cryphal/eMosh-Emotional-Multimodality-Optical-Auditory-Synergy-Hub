@@ -1,0 +1,3 @@
+A few assumptions are required to run these notebooks:
+1. The notebooks have been written in Google colab (Linux environment), and assumes a filestructure is enforced 
+2. Naming convention when replacing variables are expected to be consistent throughout the file
