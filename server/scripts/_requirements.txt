@@ -1,0 +1,17 @@
+flask
+flask-ngrok
+eyed3
+pydub
+pyAudioAnalysis
+numpy
+pathlib
+pandas
+moviepy
+matplotlib
+imblearn
+plotly
+cmake
+dlib
+matplotlib
+pandas
+opencv-contrib-python
