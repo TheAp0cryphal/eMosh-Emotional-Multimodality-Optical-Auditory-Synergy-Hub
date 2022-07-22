@@ -3,7 +3,7 @@
 ## This is the repository containing:
 
 1. Web Application allowing users to try wMosh predicting emoji and a corresponding valence and arousal on circumplex model
-2. Web Server processing input movie to analysie the expexted valence, arousal and emoji through pre-trained audio model and EmoNet.
+2. Web Server processing input movie to analyse the expexted valence, arousal and emoji through pre-trained audio model and EmoNet.
 
 # Steps to run our app
 
@@ -77,4 +77,6 @@ each performs under different annotation aggregation methods. We were able to ge
 20% of the range using random forests, which was one of our goals. We also believe that the generated emojis
 are qualitatively similar to what the input would expect.
 
+# Extra Credits 
+https://github.com/face-analysis/emonet (The actual CNN model for visual input)
 
