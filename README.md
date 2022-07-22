@@ -93,3 +93,11 @@ are qualitatively similar to what the input would expect.
 # Extra Credits 
 https://github.com/face-analysis/emonet (The actual CNN model for visual input)
 
+Co-Authors: 
+
+Tanishk Sharma
+John Chan
+Kodai Hiraishi
+Sam Su Zhou
+
+
