@@ -1,5 +1,10 @@
 # eMosh (Emotional-Multimodality-Optical-Auditory-Synergy-Hub)
 
+# Result:
+![image](https://user-images.githubusercontent.com/70075553/180343635-8de95253-b7fb-4573-a752-829299f682ee.png)
+![image](https://user-images.githubusercontent.com/70075553/180343649-3c30fffc-affd-435e-96cd-05fb392e38fb.png)
+![image](https://user-images.githubusercontent.com/70075553/180343692-7148dc19-9499-46b9-8700-d5a16f582f1f.png)
+
 
 ## Essence
 We have essentially created a multimodal AI that can take visual and audio inputs from a live recorded input and can predict the emotion of the subject in the video, we use facial landmark detection, EMONET repo for processing the visual input, Audio Model that has been meticulously created with over 1200 annotations done by 4 taskers. We apply the late-fusion technique to merge the results of both to models and in the end try to infer the subject's emotions on the Russel's Circumplex of Emotionality and converting that information into easily understandable EMOJI (which pertains to the particular emotion shown)
