@@ -1,6 +1,6 @@
-# cmpt419 final project
+## eMosh
 
-This is the repository containing:
+## This is the repository containing:
 
 1. Web Application allowing users to try wMosh predicting emoji and a corresponding valence and arousal on circumplex model
 2. Web Server processing input movie to analysie the expexted valence, arousal and emoji through pre-trained audio model and EmoNet.
