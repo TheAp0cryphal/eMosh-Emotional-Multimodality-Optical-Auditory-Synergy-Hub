@@ -105,4 +105,11 @@ John Chan <br>
 Kodai Hiraishi <br>
 Sam Su Zhou <br>
 
+# Paper
+
+![EmoshReport-1](https://user-images.githubusercontent.com/70075553/180345442-280ee653-c3dc-4413-b47e-78ce970d65ae.jpg)
+![EmoshReport-2](https://user-images.githubusercontent.com/70075553/180345445-761410e5-e874-40ef-95b4-55fb6e7e5c73.jpg)
+![EmoshReport-3](https://user-images.githubusercontent.com/70075553/180345437-ca7829b5-ffa1-45be-8cf4-fc106274b7c5.jpg)
+![EmoshReport-4](https://user-images.githubusercontent.com/70075553/180345440-8bba2f04-e895-4644-b578-ac315ac905f8.jpg)
+![EmoshReport-5](https://user-images.githubusercontent.com/70075553/180345441-771f6ad0-a551-49f6-b0c1-6a3930f2c893.jpg)
 
