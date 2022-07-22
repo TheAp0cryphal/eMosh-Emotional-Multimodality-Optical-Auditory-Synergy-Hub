@@ -52,6 +52,15 @@ Each shell script will install all required modules via pip and set some variabl
 
 4. Web server should be up running now!
 
+## FAQ -- Issues
+
+After resetting our hardware to a clean stage as a new windows installation, we found some potential issues that might occur on a new python environment
+
+1. Dlib cannot be installed because CMake is missing -> Solution is to install visual studio tools sdk and C++ CMake
+2. FileNotFoundError [Err No 2] -> You need to install ffmpeg using the readme.md
+3. If the duration cannot be found it is because the videos folder isn't cleared up as its iteration might have failed due to the issue above and it didn't clear the "videos" folder in "server"
+4. Missing flask_cors -> Simply do pip install flask_cors or `python -m pip install flask_cors
+
 # Self-Evaluation
 
 Self evaluation
