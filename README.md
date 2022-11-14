@@ -95,8 +95,8 @@ each performs under different annotation aggregation methods. We were able to ge
 20% of the range using random forests, which was one of our goals. We also believe that the generated emojis
 are qualitatively similar to what the input would expect.
 
-# Extra Credits 
-https://github.com/face-analysis/emonet (The actual CNN model for visual input)
+# Original Authors of Emonet (The CNN pre-trained model for visual input)
+https://github.com/face-analysis/emonet 
 
 # Co-Authors: 
 
