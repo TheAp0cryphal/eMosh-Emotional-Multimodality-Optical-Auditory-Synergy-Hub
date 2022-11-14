@@ -98,7 +98,7 @@ are qualitatively similar to what the input would expect.
 # Original Authors of Emonet (The CNN pre-trained model for visual input)
 https://github.com/face-analysis/emonet 
 
-# Co-Authors: 
+# Team: 
 
 Tanishk Sharma <br>
 John Chan <br>
